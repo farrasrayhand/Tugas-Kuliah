@@ -43,7 +43,7 @@ int main()
             else if(totalHarga>200000 && totalHarga<=300000)
             {
                 jmlhHarga=totalHarga-totalHarga*20/100;
-                cout<<"Anda Mendapatkan Total diskon 15% dari tambahan diskon 5%\n";
+                cout<<"Anda Mendapatkan Total diskon 20% dari tambahan diskon 5%\n";
                 cout<<"----------------------------------\n";
                 cout<<"\n";
                 cout<<"Jumlah Pembayaran : Rp."<<jmlhHarga;
@@ -51,7 +51,7 @@ int main()
             else if(totalHarga>300000)
             {
                 jmlhHarga=totalHarga-totalHarga*25/100;
-                cout<<"Anda Mendapatkan Total diskon 15% dari tambahan diskon 5%\n";
+                cout<<"Anda Mendapatkan Total diskon 25% dari tambahan diskon 5%\n";
                 cout<<"----------------------------------\n";
                 cout<<"\n";
                 cout<<"Jumlah Pembayaran : Rp."<<jmlhHarga;
