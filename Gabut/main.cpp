@@ -29,7 +29,7 @@ int main()
 
         if (menu==1)
         {
-            cout<<"Selamt Anda Mendapatkan Tambahan diskon 5%\n";
+            cout<<"Selamat Anda Mendapatkan Tambahan diskon 5%\n";
             cout<<"Masukkan Total Harga : Rp.";
             cin>>totalHarga;
             if (totalHarga>100000 && totalHarga<=200000)
