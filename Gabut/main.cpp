@@ -122,7 +122,7 @@ int main()
         cin>>jawab;
 }
     while(jawab=='y' || jawab=='Y');
-    cout<<" . Terimakasih Atas Kunujungannya!  . \n\n"<<endl;
+    cout<<" . Terimakasih Atas Kunjungannya!  . \n\n"<<endl;
 
    return 0;
 }
