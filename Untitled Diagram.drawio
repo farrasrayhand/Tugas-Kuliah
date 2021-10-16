@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T12:16:44.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="SxLjnLpaAvUxZUPlsSzr" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T12:23:49.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="AgEJY0CPMRrREcHJkwnk" version="15.5.4" type="github">
   <diagram id="INQKOqRht34q2Yc0ttDQ" name="Page-1">
-    <mxGraphModel dx="593" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,7 +197,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-fO61QpQsFOEa48RO7kH-38" value="Data Pembeli/Penjual" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fontSize=8;align=left;" vertex="1" parent="1">
+        <mxCell id="-fO61QpQsFOEa48RO7kH-38" value="Data Pembeli/Penjual" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="430" y="410" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-fO61QpQsFOEa48RO7kH-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="-fO61QpQsFOEa48RO7kH-42" target="-fO61QpQsFOEa48RO7kH-62">
@@ -214,7 +214,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-fO61QpQsFOEa48RO7kH-48" value="Data Barang dan Harga" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fontSize=8;align=left;" vertex="1" parent="1">
+        <mxCell id="-fO61QpQsFOEa48RO7kH-48" value="Data Barang dan Harga" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="420" y="490" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-fO61QpQsFOEa48RO7kH-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.609;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1" source="-fO61QpQsFOEa48RO7kH-50" target="-fO61QpQsFOEa48RO7kH-31">
@@ -268,14 +268,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-fO61QpQsFOEa48RO7kH-79" value="Data Order" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fontSize=8;align=left;" vertex="1" parent="1">
+        <mxCell id="-fO61QpQsFOEa48RO7kH-79" value="Data Order" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="430" y="690" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-fO61QpQsFOEa48RO7kH-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="-fO61QpQsFOEa48RO7kH-85" target="-fO61QpQsFOEa48RO7kH-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-fO61QpQsFOEa48RO7kH-85" value="Data Review" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fontSize=8;align=left;" vertex="1" parent="1">
+        <mxCell id="-fO61QpQsFOEa48RO7kH-85" value="Data Review" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="850" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-fO61QpQsFOEa48RO7kH-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="-fO61QpQsFOEa48RO7kH-87" target="-fO61QpQsFOEa48RO7kH-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-fO61QpQsFOEa48RO7kH-87" value="Data Transaksi" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="710" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
