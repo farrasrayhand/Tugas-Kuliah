@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T13:32:04.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="MUCIi5KC8Kgjo4eqLEhN" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T13:33:05.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="MxkYsxwKxmxE3tK0-T4g" version="15.9.1" type="github">
   <diagram id="uzBCqw_kNzwT6rNOl7PK" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -272,6 +272,9 @@
           <mxGeometry width="260" height="30" as="geometry">
             <mxRectangle width="260" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-179" value="&lt;div style=&quot;text-align: left ; font-size: 15px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Nama : Muhammad Farras Rayhand&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 15px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;NIM : 2041007&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="380" y="735" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
