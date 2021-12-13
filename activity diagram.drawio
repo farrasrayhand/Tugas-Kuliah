@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T12:14:52.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="LUTXz0rBb8MV1S252F9Y" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T12:16:04.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="d3jjjRSMAPlpv5R8UZUX" version="15.9.1" type="github">
   <diagram id="uzBCqw_kNzwT6rNOl7PK" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,8 +22,14 @@
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-5" value="Sistem" style="swimlane;startSize=20;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-3">
           <mxGeometry x="140" width="120" height="480" as="geometry" />
         </mxCell>
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="n2nUxR8Hnur2N0bHUAFO-5" source="n2nUxR8Hnur2N0bHUAFO-16" target="n2nUxR8Hnur2N0bHUAFO-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-16" value="Menyimpan data Pendaftaran" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-5">
           <mxGeometry x="10" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-18" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Apakah ingin mendaftar langganan promosi&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-5">
+          <mxGeometry x="15" y="190" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-6" value="Marketing" style="swimlane;startSize=20;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-3">
           <mxGeometry x="260" width="120" height="480" as="geometry">
