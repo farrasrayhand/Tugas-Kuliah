@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T12:07:56.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="25VGkV4I1M1jbU3D2yoF" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T12:12:04.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="JXlkM0iwlH2ucvGTKlBF" version="15.9.1" type="github">
   <diagram id="uzBCqw_kNzwT6rNOl7PK" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,26 +7,29 @@
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-3" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="380" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="n2nUxR8Hnur2N0bHUAFO-4" value="Lane 1" style="swimlane;startSize=20;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-3">
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-4" value="Customer" style="swimlane;startSize=20;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-3">
           <mxGeometry x="20" width="120" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="n2nUxR8Hnur2N0bHUAFO-5" value="Lane 2" style="swimlane;startSize=20;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-3">
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-4">
+          <mxGeometry x="45" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-5" value="Sistem" style="swimlane;startSize=20;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-3">
           <mxGeometry x="140" width="120" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="n2nUxR8Hnur2N0bHUAFO-6" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-3">
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-6" value="Marketing" style="swimlane;startSize=20;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-3">
           <mxGeometry x="260" width="120" height="480" as="geometry">
             <mxRectangle x="260" width="30" height="480" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2nUxR8Hnur2N0bHUAFO-7" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="40" width="380" height="40" as="geometry" />
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-7" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-8" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-7">
-          <mxGeometry width="380" height="40" as="geometry" />
+          <mxGeometry width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2nUxR8Hnur2N0bHUAFO-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-8">
-          <mxGeometry width="380" height="40" as="geometry">
-            <mxRectangle width="380" height="40" as="alternateBounds" />
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-9" value="&lt;b&gt;Memasarkan Produk&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-8">
+          <mxGeometry width="380" height="30" as="geometry">
+            <mxRectangle width="380" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
