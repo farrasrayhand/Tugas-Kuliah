@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T13:03:15.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="XbCAsv9X5st2nOKRTvrL" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T13:04:55.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="dzNn6zEKhGqjORuYMDpl" version="15.9.1" type="github">
   <diagram id="uzBCqw_kNzwT6rNOl7PK" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-110" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-109">
           <mxGeometry width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2nUxR8Hnur2N0bHUAFO-111" value="&lt;b&gt;Memasarkan Produk&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-110">
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-111" value="&lt;b&gt;Membuat Laporan Laba Rugi&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-110">
           <mxGeometry width="380" height="30" as="geometry">
             <mxRectangle width="380" height="30" as="alternateBounds" />
           </mxGeometry>
