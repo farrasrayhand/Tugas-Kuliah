@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T13:23:28.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="tnOx_t9NCnNKoLsNIyoF" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T13:25:24.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="00-mZF_g3lxjaO4dvisa" version="15.9.1" type="github">
   <diagram id="uzBCqw_kNzwT6rNOl7PK" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-87" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="40" width="260" height="480" as="geometry" />
+          <mxGeometry x="450" y="40" width="380" height="480" as="geometry" />
         </mxCell>
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-88" value="Accounting" style="swimlane;startSize=20;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-87">
           <mxGeometry x="20" width="120" height="480" as="geometry" />
@@ -135,13 +135,19 @@
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-140" value="Menyimpan Laporan" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#FFFFFF;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-96">
           <mxGeometry x="20" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n2nUxR8Hnur2N0bHUAFO-93" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=9;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-96">
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-142" value="Laporan Jadi" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#FFFFFF;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-96">
+          <mxGeometry x="20" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-146" value="Manager" style="swimlane;startSize=20;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-87">
+          <mxGeometry x="260" width="120" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-93" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=9;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-146">
           <mxGeometry x="45" y="380" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2nUxR8Hnur2N0bHUAFO-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="n2nUxR8Hnur2N0bHUAFO-96" source="n2nUxR8Hnur2N0bHUAFO-142" target="n2nUxR8Hnur2N0bHUAFO-93">
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="n2nUxR8Hnur2N0bHUAFO-146" source="n2nUxR8Hnur2N0bHUAFO-147" target="n2nUxR8Hnur2N0bHUAFO-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n2nUxR8Hnur2N0bHUAFO-142" value="Laporan Jadi" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#FFFFFF;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-96">
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-147" value="Melihat Laporan" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#FFFFFF;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-146">
           <mxGeometry x="20" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n2nUxR8Hnur2N0bHUAFO-87" source="n2nUxR8Hnur2N0bHUAFO-91" target="n2nUxR8Hnur2N0bHUAFO-137">
@@ -169,15 +175,18 @@
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="n2nUxR8Hnur2N0bHUAFO-87" source="n2nUxR8Hnur2N0bHUAFO-139" target="n2nUxR8Hnur2N0bHUAFO-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="n2nUxR8Hnur2N0bHUAFO-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="n2nUxR8Hnur2N0bHUAFO-87" source="n2nUxR8Hnur2N0bHUAFO-142" target="n2nUxR8Hnur2N0bHUAFO-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-109" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="450" y="10" width="260" height="30" as="geometry" />
+          <mxGeometry x="450" y="10" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-110" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-109">
-          <mxGeometry width="260" height="30" as="geometry" />
+          <mxGeometry width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-111" value="&lt;b&gt;Membuat Laporan Laba Rugi&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="n2nUxR8Hnur2N0bHUAFO-110">
-          <mxGeometry width="260" height="30" as="geometry">
-            <mxRectangle width="260" height="30" as="alternateBounds" />
+          <mxGeometry width="380" height="30" as="geometry">
+            <mxRectangle width="380" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n2nUxR8Hnur2N0bHUAFO-112" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
